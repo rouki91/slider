@@ -1,0 +1,27 @@
+.center{
+	width:960px;
+	margin:0 auto;
+}
+
+.hide{
+	display:none;
+}
+
+figcaption{
+	position:relative;
+}
+
+figure{
+	margin:0;
+	padding-top:50px;
+	padding-left:0;
+	padding-right:0;
+	text-align: center;
+}
+
+button{
+	padding:5px;
+	background-color:white;
+	border:1px solid black;
+	font-weight: bold;
+}
